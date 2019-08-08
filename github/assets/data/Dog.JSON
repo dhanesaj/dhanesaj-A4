@@ -1,0 +1,9 @@
+{
+    "dog": 
+      [
+          {"Breed": "Retriever", "Color": "golden", "Name" : "Gucci" ,"Picture":"images/dog1.jpg"},
+          {"Breed": "Bulldog", "Color": "Brown", "Name" : "jessy","Picture":"images/dog3.jpg"},
+          {"Breed": "Poodle", "Color": "Black", "Name" : "rorri","Picture":"images/dog2.jpg"}
+         
+    ]
+  }
